@@ -49,4 +49,8 @@ Feel free to contribute by:
 This project is open-source and free to use for educational purposes.
 
 ---
+
+**Author:** Abhishek Anand
+
+
 Happy Coding!
