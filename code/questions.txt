@@ -30,7 +30,6 @@ Python Coding Questions - Strings and Arrays
  28. Check if a string ends with a specific substring.
  29. Find the longest palindrome in a string.
  30. Reverse the words in a sentence.
-Python Coding Questions - Strings and Arrays
  31. Convert string to title case without using title().
  32. Remove duplicate words from a sentence.
  33. Find ASCII value of each character.
@@ -61,7 +60,6 @@ Python Coding Questions - Strings and Arrays
  7. Search for an element in an array.
  8. Find the frequency of each element.
  9. Count even and odd numbers.
-Python Coding Questions - Strings and Arrays
  10. Separate even and odd numbers into two lists.
  11. Rotate the array by one position.
  12. Rotate the array by k positions.
@@ -94,7 +92,6 @@ Python Coding Questions - Strings and Arrays
  39. Find leader elements in array.
  40. Convert array to a set and back.
  41. Flatten a 2D array.
-Python Coding Questions - Strings and Arrays
  42. Reverse elements in groups of k.
  43. Count occurrences of a number.
  44. Find the longest increasing subsequence.
