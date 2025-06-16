@@ -1,3 +1,6 @@
+# An anagram of a string is another string can be formed by the 
+# rearrangementof the same set of characters.
+# or in simple word if two string has same set of characters.
 str1 = input("Enter first string: ")
 str2 = input("Enter second string: ")
 
