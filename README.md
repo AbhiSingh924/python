@@ -4,6 +4,7 @@ This repository contains a comprehensive list of Python coding questions focused
 
 ## Contents
 
+- **Basic Questions (*):**
 - **String Questions (50):**
 - **Array Questions (50):**
   
