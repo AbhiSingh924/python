@@ -50,6 +50,8 @@ Python Coding Questions - Strings and Arrays
  48. Decode a run-length encoded string.
  49. Check for balanced brackets in a string.
  50. Extract email from a string.
+
+ 
  Array Questions (50)
  1. Find the largest element in an array.
  2. Find the smallest element in an array.
