@@ -1,3 +1,7 @@
+# A number whose sum of Factors is equql to the number itself.
+# Example:- 6 = 1, 2, 3
+# 1 + 2 + 3 = 6
+
 num = int(input("Enter a number:- "))
 sum = 0
 
