@@ -14,7 +14,7 @@ Python Coding Questions - Strings and Arrays
  12. Check if two strings are anagrams.***
  13. Remove duplicate characters from a string.***
  14. Find the first non-repeating character.
- 15. Replace a word in a string with another word.
+ 15. Replace a word in a string with another word.***
  16. Remove punctuation from a string.
  17. Count how many times a substring appears in a string.
  18. Check if a string contains only digits.
