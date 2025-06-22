@@ -12,7 +12,7 @@ Python Coding Questions - Strings and Arrays
  10. Find the longest word in a sentence.***
  11. Count words in a string.***
  12. Check if two strings are anagrams.***
- 13. Remove duplicate characters from a string.
+ 13. Remove duplicate characters from a string.***
  14. Find the first non-repeating character.
  15. Replace a word in a string with another word.
  16. Remove punctuation from a string.
@@ -44,7 +44,7 @@ Python Coding Questions - Strings and Arrays
  42. Find the second most frequent character.
  43. Count special characters in a string.***
  44. Find the most repeated word in a string.
- 45. Validate a password string based on given rules.
+ 45. Validate a password string based on given rules.***
  46. Reverse each word in a string.
  47. Count pairs of characters having a specific difference.
  48. Decode a run-length encoded string.
