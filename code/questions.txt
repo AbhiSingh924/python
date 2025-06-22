@@ -17,8 +17,8 @@ Python Coding Questions - Strings and Arrays
  15. Replace a word in a string with another word.***
  16. Remove punctuation from a string.***
  17. Count how many times a substring appears in a string.
- 18. Check if a string contains only digits.
- 19. Check if a string contains only alphabets.
+ 18. Check if a string contains only digits.***
+ 19. Check if a string contains only alphabets.***
  20. Replace spaces with hyphens in a string.
  21. Remove leading and trailing spaces.
  22. Check if one string is a rotation of another.
