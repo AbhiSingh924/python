@@ -19,10 +19,10 @@ Python Coding Questions - Strings and Arrays
  17. Count how many times a substring appears in a string.
  18. Check if a string contains only digits.***
  19. Check if a string contains only alphabets.***
- 20. Replace spaces with hyphens in a string.
+ 20. Replace spaces with hyphens in a string.***
  21. Remove leading and trailing spaces.
  22. Check if one string is a rotation of another.
- 23. Toggle the case of each character.
+ 23. Toggle the case of each character.***
  24. Compress a string using character counts. (e.g. aabbb -> a2b3)
  25. Split a string without using split().
  26. Find all permutations of a string.
