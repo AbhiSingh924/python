@@ -29,7 +29,7 @@ Python Coding Questions - Strings and Arrays
  27. Find all substrings of a string.
  28. Check if a string ends with a specific substring.
  29. Find the longest palindrome in a string.
- 30. Reverse the words in a sentence.
+ 30. Reverse the words in a sentence.***
  31. Convert string to title case without using title().
  32. Remove duplicate words from a sentence.
  33. Find ASCII value of each character.***
@@ -38,7 +38,7 @@ Python Coding Questions - Strings and Arrays
  36. Find uncommon characters between two strings.***
  37. Remove characters from string 1 present in string 2.***
  38. Check if two strings are isomorphic.
- 39. Implement string matching (without using in).
+ 39. Implement string matching (without using in).***
  40. Check if a string follows a pattern.
  41. Count uppercase and lowercase letters.***
  42. Find the second most frequent character.
