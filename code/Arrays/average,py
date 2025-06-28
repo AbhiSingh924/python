@@ -1,0 +1,13 @@
+n = int(input("Enetr array Size:- "))
+arr = []
+
+for i in range(n):
+    num = int(input(f"Enter {i+1} element."))
+    arr.append(num)
+    
+sum = 0 
+for i in range(n):
+    sum += arr[i]
+    
+avg = sum // n
+print("Average  = ",avg)
